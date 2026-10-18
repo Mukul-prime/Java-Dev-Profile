@@ -1,0 +1,7 @@
+node_modules/
+dist/
+package-stage/
+site.tar.gz
+.env
+.env.*
+!.env.example
